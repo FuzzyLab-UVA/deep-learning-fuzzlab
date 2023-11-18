@@ -36,7 +36,7 @@ O conjunto de dados muda a todo instante, demandando o contínuo processo de ada
 - Pesquisa dde novos medicamentos.
 - Entre outros.
 
-# Grupos de Aplicações das redes neurais.
+## Grupos de Aplicações das redes neurais.
 
 - *Classificação de Padrões*: classificar padrões de entrada entre classes previamente conhecidas.
 
